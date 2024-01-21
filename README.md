@@ -5,7 +5,7 @@ Hey there
 
 I'm a random guy from Czechia, who's learning to code.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Honzoraptor31415&title_color=5C6AFF&text_color=00FFFF&icon_color=5F9EC7&border_color=00FFFF&bg_color=14141a&show_icons=true)<br />
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Honzoraptor31415&layout=compact&title_color=5C6AFF&text_color=00FFFF&icon_color=5F9EC7&border_color=00FFFF&bg_color=14141a&show_icons=true)<br />
 
 ### Technologies and languages
 
