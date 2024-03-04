@@ -3,7 +3,7 @@
 
 <br/>
 
-I'm a random guy from Czechia, who's learning to code.
+I'm a random guy from Czechia, who codes 👍.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
