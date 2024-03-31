@@ -16,5 +16,8 @@ I'm a random guy from Czechia, who codes 👍.
 
 ### Technologies and languages
 
-[![Technologies and languages](https://skillicons.dev/icons?i=html,css)](/) &nbsp;&nbsp;&nbsp; [![Technologies and languages](https://skillicons.dev/icons?i=js,ts)](/) &nbsp;&nbsp;&nbsp; [![Technologies and languages](https://skillicons.dev/icons?i=react,svelte)](/) &nbsp;&nbsp;&nbsp; [![Technologies and languages](https://skillicons.dev/icons?i=py,git)](/) &nbsp;&nbsp;&nbsp; [![Technologies and languages](https://skillicons.dev/icons?i=firebase,supabase,appwrite)](/)
-<br/>
+<p align="center">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,python,git,supabase,appwrite" />
+  </a>
+</p>
