@@ -14,7 +14,7 @@ I'm a random guy from Czechia, who codes 👍.
 </a>
 </p>
 
-### Technologies and languages
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="/">
