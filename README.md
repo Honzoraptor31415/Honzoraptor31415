@@ -21,6 +21,16 @@ Currentely I'm in the state of learning to code, where I just make a lot of proj
 
 <p align="center">
   <a href="/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,python,git,supabase,appwrite" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=next" />
+    <img src="https://skillicons.dev/icons?i=svelte" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="appwrite.svg" />
   </a>
 </p>
