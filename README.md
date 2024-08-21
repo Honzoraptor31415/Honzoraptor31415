@@ -24,6 +24,8 @@ Oh and other that web development I also do a bit of game development using Godo
   <a href="/">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=react" />
@@ -32,7 +34,9 @@ Oh and other that web development I also do a bit of game development using Godo
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=supabase" />
-    <img src="appwrite.svg" />
+    <img src="icons/appwrite.svg" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="icons/authjs.svg" />
     <img src="https://skillicons.dev/icons?i=godot" />
   </a>
 </p>
