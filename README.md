@@ -18,25 +18,43 @@ Oh and other that web development I also do a bit of game development using Godo
 </a>
 </p>
 
-<h2 align="center">Skills</h2>
+<h2>Skills</h2>
 
-<p align="center">
-  <a href="/">
+<ul>
+  <li>
+    <p style="font-weight: bold;">Frontend</p>
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=next" />
     <img src="https://skillicons.dev/icons?i=svelte" />
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=git" />
+  </li>
+
+  <li>
+    <p style="font-weight: bold;">Backend / Bass</p>
     <img src="https://skillicons.dev/icons?i=supabase" />
     <img src="icons/appwrite.svg" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="icons/authjs.svg" />
+  </li>
+
+  <li>
+    <p style="font-weight: bold;">Design</p>
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </li>
+
+  <li>
+    <p style="font-weight: bold;">Game development</p>
     <img src="https://skillicons.dev/icons?i=godot" />
-  </a>
-</p>
+  </li>
+
+  <li>
+    <p style="font-weight: bold;">Other tools / langs</p>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=git" />
+  </li>
+
+</ul>
