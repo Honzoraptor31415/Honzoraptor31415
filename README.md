@@ -22,39 +22,46 @@ Oh and other that web development I also do a bit of game development using Godo
 
 <ul>
   <li>
-    <p style="font-weight: bold;">Frontend</p>
+    <p><b>Languages</b></p>
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=py" />
+  </li>
+
+  <li>
+    <p><b>Frontend</b></p>
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=next" />
     <img src="https://skillicons.dev/icons?i=svelte" />
   </li>
 
   <li>
-    <p style="font-weight: bold;">Backend / Bass</p>
-    <img src="https://skillicons.dev/icons?i=supabase" />
-    <img src="icons/appwrite.svg" />
+    <p><b>Databases</b></p>
     <img src="https://skillicons.dev/icons?i=mongodb" />
+  </li>
+
+  <li>
+    <p><b>Authentication</b></p>
     <img src="icons/authjs.svg" />
   </li>
 
   <li>
-    <p style="font-weight: bold;">Design</p>
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <p><b>BasS</b></p>
+    <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="icons/appwrite.svg" />
   </li>
 
   <li>
-    <p style="font-weight: bold;">Game development</p>
+    <p><b>Game development</b></p>
     <img src="https://skillicons.dev/icons?i=godot" />
   </li>
 
   <li>
-    <p style="font-weight: bold;">Other tools / langs</p>
-    <img src="https://skillicons.dev/icons?i=python" />
+    <p><b>Tools</b></p>
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=git" />
   </li>
-
 </ul>
