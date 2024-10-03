@@ -29,7 +29,7 @@ Oh and other that web development I also do a bit of game development using Godo
   </li>
 
   <li>
-    <p><b>Frontend</b></p>
+    <p><b>Frontend technologies</b></p>
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -39,17 +39,9 @@ Oh and other that web development I also do a bit of game development using Godo
   </li>
 
   <li>
-    <p><b>Databases</b></p>
+    <p><b>Backend/BaaS technologies</b></p>
+    <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
-  </li>
-
-  <li>
-    <p><b>Authentication</b></p>
-    <img src="icons/authjs.svg" />
-  </li>
-
-  <li>
-    <p><b>BasS</b></p>
     <img src="https://skillicons.dev/icons?i=supabase" />
     <img src="icons/appwrite.svg" />
   </li>
