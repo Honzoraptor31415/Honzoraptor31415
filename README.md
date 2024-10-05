@@ -23,37 +23,37 @@ Oh and other that web development I also do a bit of game development using Godo
 <ul>
   <li>
     <p><b>Languages</b></p>
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=ts" />
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript" />
+    <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" />
   </li>
 
   <li>
     <p><b>Frontend technologies</b></p>
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=next" />
-    <img src="https://skillicons.dev/icons?i=svelte" />
+    <img src="https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/tailwind-black.svg?style=for-the-badge&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=next.js" />
+    <img src="https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte" />
   </li>
 
   <li>
     <p><b>Backend/BaaS technologies</b></p>
-    <img src="https://skillicons.dev/icons?i=express" />
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=supabase" />
-    <img src="icons/appwrite.svg" />
+    <img src="https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express" />
+    <img src="https://img.shields.io/badge/mongodb-black.svg?style=for-the-badge&logo=mongodb" />
+    <img src="https://img.shields.io/badge/supabase-black.svg?style=for-the-badge&logo=supabase" />
+    <img src="https://img.shields.io/badge/appwrite-black.svg?style=for-the-badge&logo=appwrite" />
   </li>
 
   <li>
     <p><b>Game development</b></p>
-    <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://img.shields.io/badge/godot-black.svg?style=for-the-badge&logo=godotengine" />
   </li>
 
   <li>
     <p><b>Tools</b></p>
-    <img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma" />
+    <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git" />
   </li>
 </ul>
