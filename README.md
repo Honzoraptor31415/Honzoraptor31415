@@ -5,7 +5,7 @@
 #### I'm a random guy from Czechia, who codes 👍.
 
 Currentely I'm in the state of learning to code, where I just make a lot of projects and gain a ton of skills by doing that. So far I'm not really planning on making any startups or any serious projects, just some stuff to help me understand the language (JS, TS mostly), framework (mainly SvelteKit and NextJS) and other things. Also, I never use tutorials to build my stuff and I think that it's the best way to learn to code: **make mistakes**, **learn from them**, **remember them** and **get better thanks to them**.
-Oh and other that web development I also do a bit of game development using Godot 4 ✌️.
+And also other than web development I also do a bit of game development using Godot 4 ✌️.
 
 <h2 align="center">Some github stats:</h2>
 
