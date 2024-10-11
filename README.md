@@ -39,6 +39,11 @@ And also other than web development I also do a bit of game development using Go
   </li>
 
   <li>
+    <p><b>Native development</b></p>
+    <img src="https://img.shields.io/badge/reactnative-black.svg?style=for-the-badge&logo=react" />
+  </li>
+
+  <li>
     <p><b>Backend/BaaS technologies</b></p>
     <img src="https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express" />
     <img src="https://img.shields.io/badge/mongodb-black.svg?style=for-the-badge&logo=mongodb" />
